@@ -1,0 +1,16 @@
+{
+  "name": "Aniyomi Oploverz Repo",
+  "shortName": "Oploverz",
+  "description": "Repository extension anime Indonesia",
+  "website": "https://github.com/HumanRealNotFake/aniyomi-oploverz",
+  "extensions": [
+    {
+      "name": "Oploverz",
+      "pkg": "eu.kanade.tachiyomi.animeextension.id.oploverz",
+      "apk": "https://raw.githubusercontent.com/HumanRealNotFake/aniyomi-oploverz/main/apk/oploverz-v1.0.0.apk",
+      "version": "1.0.0",
+      "lang": "id",
+      "nsfw": false
+    }
+  ]
+}
